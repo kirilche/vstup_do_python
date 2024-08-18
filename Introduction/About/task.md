@@ -1,31 +1,31 @@
-## About the Course
+## Про цей курс
 
-Welcome to the course in basics of Python programming!
+Раді вітати на курсі "Основи програмування на мові Python"!
 
-Please join the course chat on Discord using the [link](https://discord.gg/aU6qvN5weS). There, you can ask questions, interact with instructors, and connect with your fellow students.
+Англійська версія курсу має Discord [link](https://discord.gg/aU6qvN5weS). Там є можливість спілкуватись з міжнародною спільнотою студентів.
 
-#### Why Learn Python?
-Python is one of the most popular programming languages in the world.
-Used extensively in data science, ML, and AI, Python is the fastest growing major programming language.
+#### Чому вивчати Python?
 
-It is a perfect starting point for getting acquainted with programming.
-Python is easier to read, write, and learn than most other programming languages.
-With Python, you won’t get stuck on a simple beginner’s task.
-Numerous Python forums and Q&A platforms, as well as a supportive open-source community are invaluable resources to help you stay motivated as you learn.
+Python є однією з найпопулярніших мов програмування в світі.
+Вона має застосування в data science, ML, та AI, Python показує найвищі темпи зростання серед найвідоміших мов.
 
-#### Course Aims
+Це чудова відправна точка, щоб познайомитись з програмуванням.
+Python легше читати, писати, та вчити, аніж більшість інших мов програмування.
+З Python, ви не застрягнете на задачах початкового рівня.
+Численні англомовні форуми Python та StackOverflow, поряд з привітною спільнотою open-source є неоціненними джерелами підтримки мотивації під час навчання.
 
-After completing this course, you should be able to:
+#### Цілі курсу
 
-- understand and make use of basic programming concepts, such as variables, data structures, functions, and classes;
-- read Python code;
-- write simple programs in Python;
-- work with Python modules and packages;
-- continue learning Python with other courses, offering more complex material.
+Після завершення курсу ви зможете:
 
-#### Prerequisites
+- розуміти та користуватись основними ідеями програмування, а саме: структури даних, функції та класи;
+- читати код Python;
+- писати прості програми на Python;
+- працювати з модулями та Python пакетами;
+- продовжити вивчення Python на інших курсах, що пропонують складніший матеріал.
 
-You don't need to have any previous experience in Python or programming in general 
-to complete this course.
+#### Вимоги до студентів
 
-Good luck!
+Вам не обов'язково мати досвід програмування Python або взагалі програмування, щоб завершити цей курс.
+
+Нехай Щастить!
