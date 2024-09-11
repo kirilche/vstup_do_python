@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: variable_definition.py
+    visible: true
+    placeholders:
+      - offset: 237
+        length: 1
+        placeholder_text: ???
+      - offset: 342
+        length: 10
+        placeholder_text: '# присвойте нове значення'
+      - offset: 469
+        length: 5
+        placeholder_text: '# Присвойте 2 обом a та b тут'
+  - name: tests/test_task.py
+    visible: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Variable+Definition

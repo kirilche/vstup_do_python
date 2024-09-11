@@ -1,5 +1,5 @@
 type: marketplace
-title: Introduction to Python
+title: Вступ до Python
 language: Ukrainian
 summary: |-
   <p>Цей курс розроблений для дітей та початківців.</p>
@@ -16,8 +16,8 @@ vendor:
 programming_language: Python
 environment: unittest
 content:
-  - Introduction
-  - Variables
+  - Вступ
+  - Змінні
   - Strings
   - Data structures
   - Condition expressions
